@@ -6,7 +6,7 @@
   
   <img src="https://github.com/jhnguyen168/jhnguyen168/blob/main/Asset/laptop.gif" width="30px">
   
-  I'm currently in my final term of Master's in Data Science at Indiana University. I'm here to explore this fascinating world of data using analytics and bridge the gap  between legal and data science. I'm passionate about using making complex data accessible to drive meaningful change and create impact. 
+  I'm currently in my final term, pursuing my Master's in Data Science at Indiana University. I'm here to explore this fascinating world of data using analytics and bridge the gap  between legal and data science. I'm passionate about using making complex data accessible to drive meaningful change and create impact. 
   
   <img src="https://github.com/jhnguyen168/jhnguyen168/blob/main/Asset/chart.gif" width="30px">
 
