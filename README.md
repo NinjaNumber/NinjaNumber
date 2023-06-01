@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+A legal professional by training, a data scientist in the making - never stop learning. 
+
+I'm here to explore this fascinating world of data using analytics and bridging the gap between the legal and data science. Passionate about using making complex data accessible to drive meaningful change and create impact. 
+
+Making the transition from legal to tech one algorithm at a time!!!
+
+
 <!--
 **jhnguyen168/jhnguyen168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
